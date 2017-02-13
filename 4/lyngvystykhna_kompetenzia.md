@@ -14,34 +14,28 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
+Повсякденна діяльність.<br>
+Види дозвілля.<br>
 Кореспонденція. <br>
 Літературні жанри. <br>
-Обладнання та послуги бібіліотеки. <br>
+Бібліотека. <br>
 Періодичні видання. <br>
 Музичні жанри / інструменти. <br>
 Географічні поняття. <br>
 Країни. <br>
-Національності.<br>
 Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Приміщення школи.<br>
+Система оцінювання.<br>
+Правила поведінки</td>
 <td width="50%" style="vertical-align:top !important;">
-<b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
-<b>Займенник:</b><br>
-неозначені.<br>
-<b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
-<b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+- неозначений прикметник quelqu’un<br>
+- висловлення гіпотези зі + présent de l’indicatif<br>
+- пасивний стан (la forme passive)<br>
+- майбутній час (futur simple)<br>
+- минулий час(passé simple) рецептивний рівень<br>
+- відносні займенники (formes simples,  formes  composées)
 </td>
-<td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
+<td width="25%" style="vertical-align:top !important;">Інтонація розповідних, питапьних, складносурядних речень. Поглиблення знань про особливості французької вимови. Поділ речень на ритмічні групи. Транскрипція</td>
             </tr>
 </table>
 
